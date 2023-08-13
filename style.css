@@ -1,0 +1,18 @@
+div{
+    background-color: blueviolet;
+    padding: 20px;
+    border-radius: 15%;
+    border: 2px solid yellow;
+    height: auto;
+    width: auto;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: oblique;
+}
+li{
+    color: rgb(230, 7, 62);
+    font-weight: bolder;
+    font-size: large;
+}
